@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <b>Rekayasa Perangkat Lunak Company Profile</b>b><br><br>- 🌱 I’m currently learning <b>Laravel, Vue, Arduino, Flutter, and Figma.</b>b><br><br>- 💬 Ask me about <b>React, Express, Figma.</b>b><br><br>- 📫 How to reach me <b>andra12lol@gmail.com</b>b><br><br>- ⚡ Fun fact <b>Started exploring code in 7th grade, deciphering scripts like alien language, all while vibing to Blink-182 and Green Day.</b>b></p>
+<p align="left">- 🔭 I’m currently working on <b>Rekayasa Perangkat Lunak Company Profile</b><br><br>- 🌱 I’m currently learning <b>Laravel, Vue, Arduino, Flutter, and Figma.</b><br><br>- 💬 Ask me about <b>React, Express, Figma.</b><br><br>- 📫 How to reach me <b>andra12lol@gmail.com</b><br><br>- ⚡ Fun fact <b>Started exploring code in 7th grade, deciphering scripts like alien language, all while vibing to Blink-182 and Green Day.</b></p>
 
 ###
 
