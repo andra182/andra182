@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **andra12lol@gmail.com**
 
-- ⚡ Fun fact **Started exploring code in 7th grade, deciphering scripts like alien language, all while vibing to Blink-182 and Green Day.**
+- ⚡ Some Facts About Me **Started exploring code in 7th grade, deciphering scripts like alien language, all while vibing to Blink-182 and Green Day.**
 
 ###
 
