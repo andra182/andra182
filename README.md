@@ -33,7 +33,7 @@
 
 - ⚡ Some Facts About Me **Started exploring code in 7th grade, deciphering scripts like alien language, all while vibing to Blink-182 and Green Day.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andra182&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
